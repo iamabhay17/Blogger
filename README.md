@@ -19,7 +19,7 @@
 * Full stack Blog application
 * JWT authentication
 * Built using Mern stack
-* Add/Delete product
+* Add/Delete blogs
 
 ## How To Use
 
